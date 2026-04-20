@@ -1,0 +1,7 @@
+date,channel,sku,units_sold,gross_sales,ad_spend,sessions,orders,returns
+2026-04-18,amazon,SKU-A,20,600,120,500,20,1
+2026-04-19,amazon,SKU-A,30,900,150,600,30,1
+2026-04-18,amazon,SKU-B,25,500,80,400,25,2
+2026-04-19,amazon,SKU-B,12,240,60,260,12,1
+2026-04-18,amazon,SKU-C,10,300,50,300,10,0
+2026-04-19,amazon,SKU-C,11,330,48,320,11,0

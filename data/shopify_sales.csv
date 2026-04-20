@@ -1,0 +1,5 @@
+date,channel,sku,units_sold,gross_sales,ad_spend,sessions,orders,returns
+2026-04-18,shopify,SKU-A,8,280,30,200,8,0
+2026-04-19,shopify,SKU-A,10,350,40,250,10,0
+2026-04-18,shopify,SKU-D,12,480,35,180,12,1
+2026-04-19,shopify,SKU-D,18,720,50,220,18,1
