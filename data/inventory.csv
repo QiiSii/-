@@ -1,0 +1,6 @@
+sku,available_stock,reorder_point
+SKU-A,120,50
+SKU-B,25,30
+SKU-C,15,10
+SKU-D,40,15
+SKU-E,9,10
